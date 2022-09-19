@@ -3,4 +3,4 @@ Fastest Multichain NFT Sniper Bot used for botting contracts on Polygon, Solana,
 
 
 
-<img src="https://raw.githubusercontent.com/JackRussel77/Multichain-NFT-Sniper/main/1.3.7.PNG" width="100" height="100">
+<img src="https://raw.githubusercontent.com/JackRussel77/Multichain-NFT-Sniper/main/1.3.7.PNG" width="350" height="350">
